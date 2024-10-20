@@ -1,0 +1,1001 @@
+Airline,Source,Destination,Stops,Duration_hours,Day_of_Week,Time_of_Day,Price_USD
+Airline D,Houston,Sydney,2,11,Friday,Night,1976
+Airline E,Houston,Tokyo,0,7,Wednesday,Night,156
+Airline C,Houston,Paris,2,11,Saturday,Evening,1505
+Airline E,Houston,London,0,19,Saturday,Evening,138
+Airline E,Phoenix,Dubai,0,19,Friday,Night,900
+Airline B,Phoenix,Dubai,1,14,Thursday,Night,1566
+Airline C,Los Angeles,London,1,9,Saturday,Evening,1141
+Airline C,New York,London,1,5,Thursday,Morning,831
+Airline C,Houston,Paris,1,12,Thursday,Evening,924
+Airline E,Los Angeles,Tokyo,2,4,Sunday,Morning,855
+Airline D,New York,Dubai,2,5,Thursday,Afternoon,451
+Airline C,Chicago,Paris,2,18,Monday,Afternoon,1939
+Airline E,Phoenix,Tokyo,0,4,Sunday,Evening,1421
+Airline B,New York,Paris,2,12,Wednesday,Morning,382
+Airline D,Chicago,Dubai,2,8,Wednesday,Evening,1709
+Airline B,New York,London,2,13,Saturday,Evening,209
+Airline D,Phoenix,London,1,9,Saturday,Morning,1116
+Airline E,Phoenix,Tokyo,2,17,Thursday,Evening,1303
+Airline A,Los Angeles,Sydney,0,8,Sunday,Afternoon,643
+Airline D,Houston,Tokyo,1,11,Sunday,Night,1869
+Airline B,New York,Sydney,0,14,Monday,Night,1917
+Airline E,New York,Paris,2,5,Thursday,Evening,124
+Airline D,Chicago,Paris,1,17,Monday,Morning,942
+Airline A,Phoenix,Dubai,0,4,Thursday,Morning,890
+Airline A,New York,Sydney,2,4,Tuesday,Afternoon,837
+Airline C,Phoenix,Dubai,0,5,Tuesday,Morning,156
+Airline C,New York,London,0,8,Friday,Morning,279
+Airline B,Los Angeles,Sydney,0,17,Thursday,Afternoon,331
+Airline D,Houston,Tokyo,2,12,Sunday,Evening,442
+Airline D,New York,London,2,11,Saturday,Night,576
+Airline C,Phoenix,London,0,3,Wednesday,Afternoon,1922
+Airline D,Los Angeles,Tokyo,1,18,Friday,Evening,675
+Airline D,New York,London,1,8,Saturday,Afternoon,554
+Airline A,Chicago,Sydney,2,11,Tuesday,Evening,1355
+Airline C,Houston,Dubai,2,6,Thursday,Afternoon,388
+Airline E,New York,London,2,4,Friday,Evening,1336
+Airline C,Los Angeles,Sydney,2,6,Thursday,Afternoon,357
+Airline E,Chicago,Paris,2,3,Tuesday,Evening,629
+Airline A,Los Angeles,Sydney,1,12,Friday,Afternoon,786
+Airline B,Los Angeles,Dubai,2,17,Tuesday,Night,1028
+Airline D,Chicago,Sydney,0,18,Monday,Night,328
+Airline A,Los Angeles,Tokyo,0,6,Tuesday,Morning,1349
+Airline D,Chicago,Dubai,1,4,Sunday,Evening,695
+Airline B,New York,Paris,0,15,Sunday,Afternoon,1926
+Airline B,Chicago,Tokyo,1,3,Thursday,Evening,534
+Airline A,Chicago,Sydney,1,19,Wednesday,Night,981
+Airline B,Houston,Dubai,0,15,Tuesday,Evening,1120
+Airline E,Chicago,Paris,2,6,Saturday,Afternoon,1881
+Airline B,Chicago,Tokyo,0,9,Sunday,Evening,501
+Airline D,New York,Paris,0,19,Wednesday,Afternoon,721
+Airline D,Houston,Sydney,1,11,Monday,Night,1889
+Airline D,Phoenix,Paris,0,6,Friday,Night,187
+Airline D,New York,London,1,3,Friday,Night,683
+Airline E,New York,Tokyo,2,12,Sunday,Morning,1665
+Airline C,Phoenix,Paris,2,6,Wednesday,Night,1807
+Airline A,Chicago,Sydney,2,11,Sunday,Evening,408
+Airline D,Los Angeles,Sydney,0,15,Friday,Morning,1005
+Airline B,Houston,Paris,1,16,Tuesday,Night,442
+Airline D,Los Angeles,Sydney,2,12,Wednesday,Evening,535
+Airline B,Phoenix,Dubai,1,8,Thursday,Evening,276
+Airline B,New York,Dubai,1,18,Tuesday,Evening,238
+Airline D,New York,Dubai,2,8,Tuesday,Afternoon,293
+Airline E,Houston,London,2,19,Tuesday,Morning,1309
+Airline B,New York,Paris,1,12,Thursday,Evening,1341
+Airline B,New York,London,2,5,Monday,Afternoon,1287
+Airline D,Houston,Sydney,1,17,Saturday,Night,1284
+Airline B,Houston,London,1,17,Sunday,Evening,1042
+Airline B,Phoenix,Sydney,2,6,Friday,Afternoon,624
+Airline D,New York,Sydney,0,11,Sunday,Evening,1931
+Airline D,New York,Tokyo,2,19,Wednesday,Morning,1724
+Airline A,Phoenix,Dubai,0,13,Monday,Morning,1959
+Airline E,Chicago,Sydney,1,11,Wednesday,Night,1165
+Airline E,Chicago,Tokyo,1,12,Sunday,Evening,1014
+Airline B,Chicago,Dubai,0,15,Friday,Afternoon,309
+Airline E,Phoenix,Sydney,1,10,Thursday,Night,840
+Airline B,New York,Sydney,0,9,Sunday,Evening,961
+Airline A,Phoenix,London,0,19,Tuesday,Night,1398
+Airline D,Phoenix,London,1,17,Sunday,Afternoon,1053
+Airline D,Chicago,Dubai,0,17,Tuesday,Night,1402
+Airline D,Los Angeles,Sydney,2,3,Thursday,Night,1374
+Airline E,New York,Paris,2,16,Sunday,Night,1433
+Airline A,Chicago,London,1,7,Monday,Evening,1843
+Airline E,Los Angeles,Dubai,1,13,Monday,Afternoon,932
+Airline E,Los Angeles,Sydney,0,18,Wednesday,Morning,239
+Airline A,Houston,Sydney,0,4,Thursday,Evening,891
+Airline A,New York,Paris,0,10,Monday,Morning,645
+Airline A,Los Angeles,Dubai,0,13,Sunday,Morning,1944
+Airline A,Chicago,Sydney,2,5,Thursday,Evening,1116
+Airline D,Houston,London,2,3,Friday,Evening,1653
+Airline C,New York,Paris,1,13,Tuesday,Afternoon,156
+Airline C,Phoenix,Dubai,0,18,Sunday,Afternoon,211
+Airline A,Chicago,Paris,0,18,Tuesday,Night,104
+Airline C,Los Angeles,London,1,12,Tuesday,Morning,1533
+Airline C,Los Angeles,Dubai,0,8,Thursday,Afternoon,1537
+Airline A,Chicago,Paris,0,6,Thursday,Night,1305
+Airline C,Los Angeles,Tokyo,0,15,Wednesday,Afternoon,1136
+Airline E,Houston,London,0,16,Tuesday,Evening,1462
+Airline B,New York,London,0,5,Wednesday,Afternoon,1920
+Airline B,Houston,London,1,12,Tuesday,Morning,1382
+Airline A,Los Angeles,Tokyo,0,8,Wednesday,Afternoon,189
+Airline D,Phoenix,Tokyo,1,3,Wednesday,Morning,715
+Airline A,New York,Sydney,0,16,Friday,Evening,990
+Airline D,New York,Paris,2,10,Wednesday,Morning,797
+Airline B,Chicago,Sydney,2,16,Thursday,Afternoon,1373
+Airline A,Chicago,Paris,2,12,Wednesday,Night,1378
+Airline E,Phoenix,Tokyo,2,19,Tuesday,Evening,1711
+Airline C,New York,Tokyo,1,11,Wednesday,Afternoon,997
+Airline D,Phoenix,Sydney,1,8,Monday,Evening,1070
+Airline C,Chicago,Dubai,0,13,Saturday,Evening,1231
+Airline C,Chicago,Sydney,2,9,Tuesday,Afternoon,767
+Airline A,New York,Paris,1,19,Monday,Afternoon,693
+Airline C,Houston,Sydney,0,3,Tuesday,Night,688
+Airline E,Los Angeles,London,0,7,Thursday,Evening,584
+Airline C,Chicago,Paris,1,11,Saturday,Evening,1081
+Airline A,Chicago,Paris,2,4,Saturday,Afternoon,1071
+Airline E,Houston,Dubai,0,13,Thursday,Morning,1381
+Airline B,Houston,Tokyo,2,8,Saturday,Afternoon,738
+Airline C,Phoenix,Paris,2,10,Thursday,Evening,1096
+Airline A,Phoenix,Tokyo,2,6,Monday,Afternoon,381
+Airline B,Los Angeles,Sydney,0,13,Friday,Night,1085
+Airline B,Los Angeles,London,2,7,Tuesday,Morning,1211
+Airline D,New York,Dubai,0,17,Thursday,Afternoon,1327
+Airline E,Phoenix,Tokyo,2,4,Tuesday,Night,115
+Airline C,Chicago,Paris,0,13,Monday,Evening,1274
+Airline A,Phoenix,Tokyo,2,15,Friday,Afternoon,1035
+Airline D,Chicago,Paris,1,6,Monday,Evening,353
+Airline E,Houston,Tokyo,2,9,Saturday,Night,1311
+Airline D,Phoenix,Paris,2,13,Tuesday,Evening,428
+Airline E,Houston,Sydney,0,6,Sunday,Night,643
+Airline E,Los Angeles,Paris,0,17,Friday,Night,882
+Airline C,Los Angeles,Paris,2,3,Saturday,Night,1096
+Airline E,New York,London,1,5,Friday,Afternoon,1520
+Airline D,Phoenix,Paris,1,16,Saturday,Evening,1640
+Airline E,Houston,London,0,8,Monday,Evening,1582
+Airline C,Chicago,Dubai,1,3,Thursday,Morning,1453
+Airline C,Los Angeles,London,2,8,Tuesday,Morning,1943
+Airline D,Los Angeles,Sydney,0,8,Wednesday,Morning,944
+Airline B,Chicago,London,2,18,Wednesday,Morning,1292
+Airline B,Houston,Dubai,0,7,Monday,Evening,1816
+Airline E,Houston,Sydney,0,19,Tuesday,Night,465
+Airline A,Phoenix,Tokyo,0,12,Tuesday,Night,1301
+Airline E,Phoenix,Tokyo,0,9,Monday,Afternoon,754
+Airline D,New York,London,1,5,Tuesday,Night,1485
+Airline D,Los Angeles,London,2,15,Thursday,Evening,859
+Airline D,Phoenix,Dubai,2,17,Monday,Evening,738
+Airline D,Houston,Dubai,2,5,Thursday,Evening,1898
+Airline D,Chicago,Paris,0,6,Tuesday,Afternoon,1163
+Airline C,Houston,Dubai,1,7,Monday,Morning,1023
+Airline B,Los Angeles,Paris,2,3,Tuesday,Night,515
+Airline D,Houston,Sydney,1,6,Monday,Evening,1478
+Airline A,New York,London,0,14,Tuesday,Evening,354
+Airline A,Los Angeles,Sydney,2,12,Thursday,Morning,1266
+Airline A,Chicago,Dubai,1,15,Sunday,Evening,1875
+Airline A,New York,Sydney,0,16,Thursday,Night,1863
+Airline C,Los Angeles,Sydney,1,7,Tuesday,Afternoon,1976
+Airline A,Chicago,Sydney,2,6,Monday,Evening,809
+Airline D,New York,Dubai,2,16,Wednesday,Night,676
+Airline E,New York,Sydney,0,12,Thursday,Evening,999
+Airline A,Los Angeles,Paris,0,19,Thursday,Morning,110
+Airline C,Phoenix,Dubai,0,12,Saturday,Evening,1743
+Airline C,New York,Sydney,1,9,Wednesday,Evening,125
+Airline A,New York,Dubai,1,18,Tuesday,Afternoon,1056
+Airline E,Chicago,Tokyo,1,3,Sunday,Morning,520
+Airline A,Houston,Paris,0,19,Monday,Morning,1786
+Airline C,Los Angeles,Sydney,2,11,Saturday,Afternoon,1344
+Airline B,Los Angeles,Tokyo,2,8,Tuesday,Evening,1976
+Airline D,Phoenix,Tokyo,1,15,Friday,Night,595
+Airline C,Phoenix,Dubai,1,5,Sunday,Morning,1360
+Airline A,Los Angeles,Tokyo,2,9,Thursday,Morning,336
+Airline D,Phoenix,Paris,2,11,Friday,Evening,1108
+Airline A,Chicago,Paris,1,7,Thursday,Evening,318
+Airline A,Los Angeles,London,1,12,Thursday,Morning,1610
+Airline B,Phoenix,Paris,2,19,Friday,Evening,560
+Airline D,Los Angeles,Tokyo,0,14,Sunday,Night,762
+Airline D,Houston,Paris,1,18,Friday,Morning,734
+Airline B,New York,Dubai,2,5,Tuesday,Night,1267
+Airline C,Los Angeles,London,2,11,Saturday,Night,1089
+Airline A,New York,Tokyo,2,17,Saturday,Evening,288
+Airline E,Phoenix,London,2,7,Friday,Night,354
+Airline A,New York,Tokyo,0,15,Tuesday,Evening,167
+Airline A,Los Angeles,Dubai,2,16,Saturday,Afternoon,715
+Airline C,Houston,London,1,17,Tuesday,Evening,435
+Airline A,Phoenix,Sydney,0,18,Tuesday,Night,770
+Airline B,Los Angeles,Tokyo,2,15,Thursday,Afternoon,920
+Airline B,Phoenix,Sydney,0,19,Saturday,Evening,973
+Airline D,Chicago,London,1,10,Saturday,Night,1532
+Airline E,New York,Sydney,2,4,Thursday,Morning,399
+Airline A,Chicago,Sydney,1,7,Friday,Morning,1725
+Airline A,Los Angeles,London,2,8,Thursday,Evening,456
+Airline C,Houston,Dubai,2,14,Saturday,Evening,355
+Airline B,Phoenix,Sydney,2,3,Saturday,Morning,1107
+Airline E,New York,Sydney,2,19,Sunday,Night,452
+Airline D,Phoenix,Dubai,2,13,Friday,Night,1855
+Airline B,Los Angeles,Sydney,0,12,Thursday,Night,1644
+Airline D,Phoenix,Sydney,2,16,Monday,Evening,623
+Airline C,New York,Sydney,2,12,Monday,Afternoon,1960
+Airline C,Los Angeles,Paris,0,17,Friday,Afternoon,1049
+Airline A,Phoenix,Dubai,0,6,Thursday,Afternoon,855
+Airline E,Houston,Sydney,0,4,Thursday,Afternoon,1817
+Airline D,Los Angeles,Dubai,0,11,Tuesday,Afternoon,383
+Airline B,Los Angeles,Tokyo,0,12,Saturday,Evening,1435
+Airline C,Houston,Tokyo,0,13,Wednesday,Evening,198
+Airline A,Chicago,Sydney,2,16,Sunday,Afternoon,296
+Airline A,New York,Dubai,2,9,Friday,Evening,581
+Airline D,Chicago,Dubai,1,17,Wednesday,Evening,977
+Airline C,Phoenix,Dubai,2,17,Wednesday,Afternoon,1349
+Airline E,Houston,Paris,2,10,Friday,Night,1968
+Airline C,Chicago,Tokyo,0,13,Thursday,Evening,714
+Airline D,Los Angeles,Dubai,0,11,Friday,Night,717
+Airline D,Phoenix,Dubai,2,17,Wednesday,Evening,1488
+Airline C,Phoenix,Paris,1,3,Saturday,Evening,467
+Airline D,Chicago,Paris,0,3,Sunday,Afternoon,669
+Airline C,Chicago,Dubai,2,5,Sunday,Evening,689
+Airline B,Houston,London,2,12,Saturday,Morning,1198
+Airline C,New York,Dubai,1,10,Saturday,Morning,1165
+Airline C,Chicago,Dubai,1,17,Thursday,Afternoon,521
+Airline D,Chicago,Paris,0,12,Monday,Night,935
+Airline D,Los Angeles,Paris,1,3,Friday,Night,1304
+Airline A,Phoenix,Dubai,2,4,Sunday,Night,644
+Airline A,New York,Dubai,2,15,Saturday,Morning,170
+Airline B,Los Angeles,Dubai,1,3,Friday,Night,1691
+Airline A,Houston,Paris,1,4,Sunday,Night,1228
+Airline C,Houston,Dubai,1,18,Saturday,Afternoon,1323
+Airline D,Chicago,Dubai,1,17,Sunday,Night,1224
+Airline A,Chicago,Sydney,0,15,Thursday,Morning,867
+Airline A,Houston,London,1,18,Monday,Morning,406
+Airline B,Chicago,Tokyo,0,19,Monday,Morning,1709
+Airline B,New York,London,2,9,Saturday,Afternoon,1806
+Airline C,Chicago,Sydney,1,19,Sunday,Afternoon,476
+Airline D,Phoenix,Tokyo,0,9,Thursday,Evening,754
+Airline B,Chicago,Dubai,1,15,Tuesday,Night,777
+Airline A,Los Angeles,Sydney,2,7,Friday,Afternoon,498
+Airline D,New York,Dubai,2,19,Friday,Morning,1896
+Airline D,Los Angeles,Paris,2,5,Wednesday,Morning,320
+Airline A,Los Angeles,Sydney,1,9,Thursday,Afternoon,1718
+Airline B,Phoenix,Paris,1,19,Sunday,Afternoon,281
+Airline A,New York,Sydney,0,9,Wednesday,Afternoon,406
+Airline D,New York,Sydney,2,3,Saturday,Evening,621
+Airline E,New York,Paris,1,19,Sunday,Morning,1519
+Airline E,New York,Tokyo,2,19,Wednesday,Evening,1113
+Airline C,New York,London,2,13,Monday,Evening,103
+Airline A,Phoenix,Dubai,0,5,Friday,Night,962
+Airline A,Chicago,Sydney,0,17,Sunday,Morning,947
+Airline C,Los Angeles,Dubai,0,13,Wednesday,Morning,903
+Airline C,New York,Paris,0,18,Monday,Afternoon,1404
+Airline C,Chicago,Dubai,2,11,Thursday,Afternoon,314
+Airline D,Chicago,Paris,0,3,Wednesday,Night,1071
+Airline A,Los Angeles,Dubai,0,18,Saturday,Evening,1733
+Airline D,Phoenix,London,0,11,Saturday,Afternoon,1543
+Airline C,Houston,London,0,14,Saturday,Afternoon,200
+Airline A,Houston,London,2,11,Sunday,Morning,1062
+Airline D,Chicago,London,0,9,Friday,Morning,1644
+Airline D,Los Angeles,London,2,16,Wednesday,Afternoon,672
+Airline C,Houston,London,1,4,Thursday,Morning,1432
+Airline A,Chicago,Paris,2,11,Wednesday,Night,757
+Airline C,Phoenix,Sydney,2,15,Friday,Afternoon,1038
+Airline A,Houston,Dubai,0,17,Monday,Morning,1633
+Airline E,Chicago,London,1,5,Friday,Night,1186
+Airline B,Chicago,Paris,1,13,Saturday,Morning,1756
+Airline B,New York,Paris,1,16,Sunday,Morning,325
+Airline B,Phoenix,Paris,1,10,Monday,Morning,204
+Airline C,New York,Sydney,2,18,Sunday,Afternoon,871
+Airline E,Los Angeles,Dubai,1,4,Saturday,Evening,1984
+Airline A,New York,Sydney,2,10,Tuesday,Morning,1548
+Airline D,New York,Tokyo,2,8,Friday,Night,1378
+Airline A,Houston,Paris,2,14,Friday,Afternoon,528
+Airline D,Chicago,Tokyo,1,17,Thursday,Afternoon,533
+Airline A,Phoenix,London,0,10,Wednesday,Night,1330
+Airline E,New York,London,0,6,Monday,Morning,1151
+Airline D,Phoenix,Sydney,1,17,Sunday,Evening,781
+Airline C,New York,Dubai,0,19,Monday,Morning,1459
+Airline A,Los Angeles,Tokyo,0,15,Thursday,Night,687
+Airline A,New York,Dubai,2,4,Thursday,Afternoon,1751
+Airline D,Houston,Sydney,2,15,Sunday,Evening,1192
+Airline C,Chicago,London,1,15,Wednesday,Afternoon,965
+Airline C,Los Angeles,Dubai,1,17,Sunday,Night,845
+Airline E,New York,Dubai,0,12,Sunday,Morning,1636
+Airline C,Phoenix,London,2,5,Saturday,Evening,1290
+Airline C,Los Angeles,Tokyo,1,5,Wednesday,Afternoon,963
+Airline C,Los Angeles,London,1,16,Friday,Afternoon,1853
+Airline B,New York,Dubai,1,10,Saturday,Afternoon,1908
+Airline E,Los Angeles,Tokyo,1,6,Tuesday,Morning,467
+Airline A,Phoenix,Tokyo,1,13,Wednesday,Evening,350
+Airline D,Los Angeles,London,1,13,Thursday,Morning,958
+Airline A,Phoenix,Dubai,0,13,Saturday,Morning,955
+Airline E,New York,Sydney,2,4,Wednesday,Morning,1809
+Airline D,Chicago,Dubai,2,19,Monday,Night,1293
+Airline E,Los Angeles,Paris,1,11,Sunday,Night,1881
+Airline C,Chicago,Sydney,2,4,Tuesday,Night,1213
+Airline D,Phoenix,Tokyo,2,17,Friday,Evening,660
+Airline C,Los Angeles,Sydney,2,18,Sunday,Morning,1569
+Airline A,Houston,Tokyo,1,6,Monday,Morning,393
+Airline A,Chicago,Tokyo,1,10,Monday,Night,1018
+Airline D,Los Angeles,Sydney,2,11,Tuesday,Morning,1273
+Airline D,Chicago,Tokyo,2,7,Friday,Morning,1255
+Airline E,Los Angeles,Tokyo,1,18,Thursday,Afternoon,532
+Airline E,New York,Paris,0,15,Saturday,Morning,158
+Airline C,Chicago,Dubai,2,9,Friday,Afternoon,1068
+Airline D,Houston,Dubai,0,19,Wednesday,Morning,935
+Airline A,Houston,Paris,2,5,Monday,Evening,298
+Airline E,Phoenix,Sydney,0,7,Wednesday,Night,314
+Airline E,Los Angeles,London,0,14,Thursday,Afternoon,997
+Airline A,Chicago,London,0,9,Wednesday,Night,1684
+Airline E,Phoenix,London,1,11,Friday,Afternoon,571
+Airline C,Chicago,Paris,0,8,Wednesday,Afternoon,1867
+Airline D,Los Angeles,Paris,0,19,Thursday,Afternoon,346
+Airline A,Houston,Tokyo,0,18,Thursday,Evening,481
+Airline D,New York,London,2,5,Thursday,Morning,1090
+Airline E,Houston,Sydney,0,6,Friday,Afternoon,1362
+Airline E,Phoenix,Sydney,2,12,Thursday,Evening,1026
+Airline A,New York,London,0,7,Monday,Afternoon,1490
+Airline C,Phoenix,London,0,12,Sunday,Morning,1291
+Airline B,Los Angeles,London,1,14,Thursday,Afternoon,659
+Airline A,New York,Paris,2,12,Wednesday,Evening,1174
+Airline B,Phoenix,Paris,0,15,Saturday,Morning,1934
+Airline B,Los Angeles,Paris,2,13,Wednesday,Evening,1733
+Airline C,Houston,Dubai,2,18,Saturday,Morning,1851
+Airline B,Los Angeles,Sydney,1,10,Wednesday,Morning,788
+Airline B,Chicago,Sydney,1,10,Friday,Night,479
+Airline C,Los Angeles,Tokyo,1,10,Wednesday,Night,573
+Airline B,Los Angeles,Paris,1,15,Friday,Night,1203
+Airline B,Chicago,Dubai,1,4,Friday,Morning,796
+Airline B,Phoenix,Dubai,1,14,Thursday,Afternoon,1490
+Airline A,Phoenix,Sydney,1,12,Monday,Evening,1584
+Airline A,Los Angeles,Paris,1,14,Saturday,Evening,1010
+Airline A,Chicago,Tokyo,0,13,Thursday,Evening,1662
+Airline C,Chicago,Paris,2,17,Thursday,Night,1575
+Airline E,Houston,London,1,18,Sunday,Morning,1587
+Airline B,Phoenix,Paris,1,19,Friday,Night,1059
+Airline B,New York,London,2,4,Friday,Afternoon,577
+Airline C,Phoenix,London,0,14,Saturday,Morning,1103
+Airline B,Phoenix,Tokyo,2,19,Wednesday,Evening,1025
+Airline A,Houston,Sydney,2,8,Wednesday,Night,1543
+Airline E,New York,Paris,1,17,Thursday,Night,806
+Airline D,Houston,London,2,5,Tuesday,Afternoon,1337
+Airline B,New York,Paris,2,8,Tuesday,Afternoon,1492
+Airline A,Los Angeles,Sydney,1,5,Wednesday,Night,953
+Airline D,New York,Sydney,1,3,Tuesday,Afternoon,1237
+Airline E,Houston,Dubai,1,15,Sunday,Evening,1116
+Airline D,Phoenix,Sydney,1,16,Wednesday,Afternoon,853
+Airline A,New York,Tokyo,2,15,Friday,Afternoon,602
+Airline D,New York,London,2,6,Thursday,Night,1759
+Airline C,Chicago,Dubai,0,9,Monday,Night,916
+Airline D,Phoenix,Tokyo,0,12,Thursday,Morning,687
+Airline B,Los Angeles,Paris,2,9,Wednesday,Morning,1434
+Airline B,Houston,London,0,17,Sunday,Night,1592
+Airline C,Los Angeles,Sydney,2,17,Wednesday,Afternoon,1947
+Airline A,Phoenix,London,0,6,Thursday,Afternoon,807
+Airline B,New York,Paris,1,8,Sunday,Morning,1986
+Airline E,New York,Dubai,0,7,Sunday,Morning,1167
+Airline B,Phoenix,Dubai,1,14,Sunday,Morning,1538
+Airline B,New York,Dubai,1,3,Saturday,Evening,1821
+Airline A,New York,Sydney,1,10,Wednesday,Evening,1978
+Airline D,New York,Tokyo,1,3,Tuesday,Morning,1369
+Airline B,Houston,Tokyo,0,7,Tuesday,Afternoon,1207
+Airline C,Houston,London,2,8,Wednesday,Morning,306
+Airline D,Chicago,Sydney,1,5,Wednesday,Evening,250
+Airline E,Los Angeles,Dubai,0,17,Saturday,Afternoon,767
+Airline A,Phoenix,Dubai,1,7,Tuesday,Evening,627
+Airline E,Phoenix,Paris,0,16,Wednesday,Afternoon,264
+Airline D,Phoenix,Paris,0,18,Wednesday,Evening,1016
+Airline D,Chicago,Dubai,0,8,Saturday,Afternoon,1268
+Airline D,Houston,Dubai,2,16,Saturday,Afternoon,1109
+Airline E,Chicago,Sydney,0,10,Thursday,Afternoon,136
+Airline D,Phoenix,Tokyo,0,9,Saturday,Afternoon,432
+Airline E,Los Angeles,Paris,2,10,Monday,Night,502
+Airline D,New York,Tokyo,2,15,Tuesday,Evening,513
+Airline C,Houston,Sydney,0,8,Thursday,Evening,144
+Airline D,Houston,Dubai,2,4,Monday,Night,1525
+Airline E,Chicago,Tokyo,1,10,Wednesday,Afternoon,305
+Airline B,Houston,Dubai,1,13,Wednesday,Afternoon,161
+Airline D,Phoenix,Dubai,2,3,Thursday,Evening,519
+Airline B,Phoenix,London,2,8,Saturday,Night,967
+Airline C,Chicago,Tokyo,0,18,Sunday,Afternoon,1591
+Airline A,Phoenix,Tokyo,2,14,Sunday,Afternoon,919
+Airline C,Los Angeles,Dubai,0,13,Wednesday,Afternoon,118
+Airline D,Chicago,Sydney,1,12,Sunday,Morning,464
+Airline B,Los Angeles,London,2,5,Friday,Night,1423
+Airline B,New York,Dubai,0,15,Thursday,Afternoon,1130
+Airline E,Los Angeles,Paris,0,5,Monday,Morning,1884
+Airline B,New York,Paris,1,17,Thursday,Night,527
+Airline E,New York,London,2,18,Tuesday,Afternoon,1240
+Airline A,Los Angeles,Sydney,1,15,Saturday,Evening,679
+Airline D,Chicago,Dubai,0,19,Saturday,Morning,1630
+Airline E,Phoenix,Tokyo,0,5,Thursday,Morning,645
+Airline A,Phoenix,London,2,13,Wednesday,Afternoon,1829
+Airline B,New York,Sydney,0,13,Wednesday,Afternoon,424
+Airline B,New York,Tokyo,2,18,Friday,Morning,154
+Airline A,Chicago,Paris,1,5,Friday,Evening,877
+Airline B,Houston,Paris,2,8,Saturday,Evening,1091
+Airline A,Los Angeles,Tokyo,2,16,Friday,Night,141
+Airline E,New York,London,0,19,Monday,Afternoon,1420
+Airline E,Phoenix,Paris,0,6,Friday,Evening,330
+Airline A,Chicago,Dubai,2,17,Monday,Night,552
+Airline E,Los Angeles,Tokyo,0,13,Friday,Evening,493
+Airline E,Chicago,Tokyo,0,5,Saturday,Afternoon,1645
+Airline E,Los Angeles,Paris,0,5,Saturday,Night,1481
+Airline C,Los Angeles,London,2,18,Monday,Night,1567
+Airline D,New York,Dubai,0,7,Thursday,Night,1251
+Airline B,Chicago,London,2,12,Saturday,Evening,790
+Airline C,Chicago,Sydney,0,6,Thursday,Afternoon,1528
+Airline E,Phoenix,Sydney,1,13,Wednesday,Night,491
+Airline A,Phoenix,Paris,0,4,Monday,Morning,1316
+Airline E,New York,Paris,0,12,Sunday,Afternoon,703
+Airline D,New York,Paris,2,13,Saturday,Morning,980
+Airline E,Houston,Sydney,2,18,Tuesday,Morning,1866
+Airline A,Phoenix,London,0,13,Wednesday,Night,1201
+Airline D,Los Angeles,London,1,16,Thursday,Night,184
+Airline E,Chicago,Paris,0,4,Saturday,Evening,1153
+Airline D,New York,Dubai,0,7,Monday,Evening,1848
+Airline B,Chicago,London,1,7,Sunday,Evening,148
+Airline B,Chicago,Sydney,2,14,Friday,Afternoon,1900
+Airline E,Houston,Tokyo,0,6,Sunday,Evening,1268
+Airline D,Phoenix,Tokyo,2,19,Tuesday,Morning,168
+Airline A,New York,Tokyo,2,12,Thursday,Evening,1181
+Airline E,Chicago,Dubai,1,8,Wednesday,Night,796
+Airline B,New York,Paris,1,16,Sunday,Evening,1697
+Airline B,Los Angeles,Sydney,2,13,Monday,Afternoon,578
+Airline E,Houston,Dubai,0,13,Tuesday,Afternoon,919
+Airline D,Los Angeles,Sydney,2,13,Monday,Morning,1568
+Airline B,New York,Sydney,0,14,Saturday,Afternoon,1419
+Airline D,New York,Paris,0,7,Friday,Evening,1801
+Airline B,Phoenix,Tokyo,1,11,Wednesday,Night,1294
+Airline B,Chicago,Paris,0,11,Monday,Afternoon,1698
+Airline C,Chicago,Dubai,0,12,Thursday,Morning,246
+Airline B,Los Angeles,Dubai,2,3,Saturday,Evening,1607
+Airline A,Houston,Dubai,1,9,Saturday,Morning,1429
+Airline E,Chicago,Paris,0,6,Wednesday,Afternoon,1796
+Airline E,Phoenix,Sydney,0,3,Saturday,Afternoon,1776
+Airline D,Los Angeles,Sydney,1,17,Thursday,Morning,1969
+Airline B,Los Angeles,London,2,10,Monday,Evening,1115
+Airline A,Phoenix,Dubai,1,14,Wednesday,Afternoon,708
+Airline D,Houston,Sydney,1,17,Saturday,Night,545
+Airline C,Phoenix,London,0,19,Saturday,Afternoon,320
+Airline D,Houston,Sydney,0,16,Thursday,Evening,1678
+Airline D,Phoenix,Dubai,2,16,Friday,Afternoon,1927
+Airline B,Phoenix,Tokyo,0,18,Friday,Morning,1501
+Airline C,New York,Dubai,0,3,Sunday,Afternoon,1743
+Airline D,Los Angeles,Paris,1,13,Saturday,Afternoon,1389
+Airline A,Phoenix,Sydney,0,17,Monday,Evening,194
+Airline A,Phoenix,Sydney,2,14,Wednesday,Morning,361
+Airline E,Chicago,Paris,1,10,Saturday,Evening,1948
+Airline C,Los Angeles,Paris,2,8,Tuesday,Afternoon,996
+Airline C,Chicago,Tokyo,1,5,Wednesday,Night,1194
+Airline E,Los Angeles,Sydney,0,15,Sunday,Afternoon,318
+Airline D,Chicago,Sydney,1,15,Friday,Evening,1656
+Airline C,Phoenix,Tokyo,1,4,Saturday,Night,191
+Airline A,Phoenix,London,0,7,Thursday,Evening,226
+Airline A,New York,Tokyo,0,19,Tuesday,Evening,179
+Airline B,Chicago,Dubai,2,8,Saturday,Morning,1947
+Airline C,Houston,Sydney,2,4,Sunday,Night,1361
+Airline D,New York,Paris,0,6,Monday,Afternoon,1082
+Airline E,Chicago,Dubai,0,13,Tuesday,Evening,1495
+Airline E,Chicago,Sydney,0,10,Sunday,Afternoon,1015
+Airline D,New York,Tokyo,1,14,Saturday,Morning,585
+Airline B,Phoenix,Dubai,1,10,Monday,Morning,793
+Airline E,Chicago,Sydney,1,13,Tuesday,Night,124
+Airline C,Phoenix,London,0,10,Monday,Morning,255
+Airline B,New York,London,2,10,Monday,Morning,1640
+Airline C,Phoenix,Paris,0,19,Tuesday,Afternoon,731
+Airline A,Los Angeles,Sydney,1,18,Tuesday,Morning,1912
+Airline B,Houston,London,1,16,Monday,Morning,1653
+Airline E,Chicago,Tokyo,0,13,Sunday,Evening,1833
+Airline B,Houston,Sydney,0,9,Friday,Morning,1180
+Airline B,Phoenix,Tokyo,1,18,Tuesday,Evening,1728
+Airline B,Chicago,Tokyo,1,15,Saturday,Morning,118
+Airline B,Phoenix,London,1,17,Wednesday,Morning,1507
+Airline C,Los Angeles,Sydney,0,18,Thursday,Night,1988
+Airline A,New York,Dubai,1,11,Monday,Night,1316
+Airline D,Chicago,London,1,5,Monday,Evening,336
+Airline B,Los Angeles,London,2,7,Thursday,Morning,1510
+Airline E,Los Angeles,Sydney,0,12,Friday,Afternoon,1549
+Airline B,Chicago,Sydney,2,19,Thursday,Night,376
+Airline E,Phoenix,Tokyo,2,17,Tuesday,Afternoon,1350
+Airline C,Los Angeles,Sydney,1,10,Thursday,Night,844
+Airline E,Houston,Tokyo,0,17,Monday,Night,651
+Airline D,Los Angeles,London,1,16,Thursday,Morning,1446
+Airline A,Phoenix,Paris,0,9,Wednesday,Night,1276
+Airline E,Phoenix,Dubai,2,14,Saturday,Afternoon,738
+Airline E,Houston,London,0,19,Tuesday,Night,336
+Airline A,Los Angeles,Sydney,1,19,Thursday,Evening,1097
+Airline D,Phoenix,Dubai,1,12,Monday,Morning,154
+Airline B,Chicago,Paris,1,16,Sunday,Morning,1559
+Airline E,New York,Paris,0,13,Saturday,Evening,783
+Airline A,New York,Tokyo,2,4,Tuesday,Evening,208
+Airline C,New York,Dubai,2,9,Monday,Evening,1989
+Airline A,Los Angeles,Tokyo,0,14,Friday,Night,1307
+Airline C,Houston,London,1,4,Wednesday,Morning,1491
+Airline D,Phoenix,Dubai,2,8,Friday,Evening,1321
+Airline B,Chicago,London,1,12,Wednesday,Night,1494
+Airline A,Chicago,Tokyo,0,17,Thursday,Evening,472
+Airline E,Los Angeles,Dubai,1,7,Tuesday,Afternoon,1072
+Airline D,New York,Tokyo,2,5,Thursday,Afternoon,1620
+Airline A,Los Angeles,Dubai,2,7,Wednesday,Morning,1722
+Airline E,Houston,Tokyo,1,10,Wednesday,Night,300
+Airline A,Houston,Paris,0,10,Wednesday,Afternoon,948
+Airline C,Phoenix,Tokyo,1,10,Saturday,Afternoon,608
+Airline A,Phoenix,Paris,0,14,Monday,Night,1445
+Airline A,Houston,Tokyo,1,10,Tuesday,Evening,374
+Airline A,Houston,Dubai,2,13,Thursday,Night,310
+Airline D,Houston,Dubai,0,16,Thursday,Evening,603
+Airline A,Los Angeles,Dubai,0,10,Friday,Afternoon,1241
+Airline E,Houston,Sydney,0,12,Wednesday,Afternoon,802
+Airline C,Chicago,London,2,9,Sunday,Afternoon,1677
+Airline C,New York,Dubai,1,19,Wednesday,Morning,141
+Airline A,Houston,Paris,2,6,Wednesday,Morning,414
+Airline D,New York,Dubai,0,15,Sunday,Morning,887
+Airline D,Los Angeles,Sydney,1,6,Thursday,Night,428
+Airline E,New York,Paris,2,7,Friday,Afternoon,1140
+Airline A,Los Angeles,Sydney,0,6,Monday,Afternoon,382
+Airline C,Chicago,Paris,0,8,Sunday,Night,1042
+Airline D,Los Angeles,Tokyo,2,4,Saturday,Morning,357
+Airline A,Los Angeles,London,2,13,Tuesday,Night,674
+Airline D,Phoenix,London,2,16,Sunday,Morning,673
+Airline D,Houston,Sydney,0,7,Monday,Afternoon,711
+Airline C,Houston,London,2,8,Thursday,Evening,1142
+Airline B,Chicago,Sydney,0,12,Saturday,Morning,1652
+Airline E,Chicago,Sydney,2,10,Saturday,Afternoon,936
+Airline E,Houston,Sydney,0,16,Saturday,Afternoon,522
+Airline C,Phoenix,London,0,5,Wednesday,Evening,1589
+Airline D,Houston,Sydney,1,14,Tuesday,Afternoon,1496
+Airline A,Phoenix,London,2,18,Thursday,Afternoon,857
+Airline D,Chicago,Sydney,2,19,Thursday,Morning,862
+Airline C,New York,Dubai,0,3,Saturday,Morning,1204
+Airline E,Chicago,Sydney,0,12,Thursday,Evening,1674
+Airline D,Chicago,Paris,0,12,Tuesday,Evening,1671
+Airline E,Los Angeles,Sydney,1,4,Tuesday,Afternoon,523
+Airline A,Los Angeles,Tokyo,1,11,Friday,Morning,528
+Airline E,Los Angeles,Sydney,0,15,Sunday,Evening,1511
+Airline E,Los Angeles,Paris,2,18,Sunday,Evening,1832
+Airline B,Phoenix,Paris,2,14,Friday,Night,1793
+Airline B,Houston,London,1,10,Monday,Evening,303
+Airline B,New York,Dubai,1,19,Sunday,Afternoon,295
+Airline E,Chicago,Sydney,0,17,Tuesday,Morning,827
+Airline C,Phoenix,London,2,12,Tuesday,Evening,384
+Airline E,New York,Dubai,0,17,Sunday,Night,295
+Airline C,Phoenix,Sydney,1,17,Tuesday,Morning,406
+Airline C,Phoenix,Tokyo,2,9,Friday,Evening,1787
+Airline B,Chicago,Sydney,2,15,Saturday,Night,113
+Airline D,Houston,Paris,1,19,Saturday,Evening,1960
+Airline A,Los Angeles,Paris,0,11,Thursday,Morning,1269
+Airline B,Houston,Tokyo,0,10,Saturday,Morning,1180
+Airline B,Chicago,London,2,15,Wednesday,Morning,822
+Airline D,Chicago,Dubai,1,18,Friday,Afternoon,879
+Airline A,Chicago,Sydney,2,11,Tuesday,Evening,1333
+Airline E,New York,Paris,1,14,Sunday,Afternoon,628
+Airline E,Houston,London,0,14,Saturday,Morning,897
+Airline B,Houston,Tokyo,1,8,Friday,Night,443
+Airline A,Phoenix,Paris,0,9,Saturday,Evening,1838
+Airline B,Phoenix,Tokyo,1,5,Monday,Afternoon,1734
+Airline C,Phoenix,Sydney,2,18,Tuesday,Evening,1402
+Airline B,Chicago,Dubai,0,18,Monday,Night,308
+Airline B,Houston,Paris,2,9,Tuesday,Afternoon,740
+Airline E,Chicago,Paris,2,6,Friday,Morning,1458
+Airline E,New York,Sydney,0,10,Thursday,Afternoon,1411
+Airline E,Phoenix,London,0,15,Saturday,Evening,351
+Airline C,Chicago,Dubai,2,15,Saturday,Evening,1388
+Airline E,Chicago,Paris,2,19,Wednesday,Evening,370
+Airline A,New York,Dubai,2,19,Sunday,Evening,1019
+Airline D,Los Angeles,Paris,2,7,Monday,Morning,1823
+Airline A,Houston,Dubai,0,8,Saturday,Afternoon,518
+Airline A,Los Angeles,Tokyo,0,15,Friday,Morning,1849
+Airline E,Phoenix,Paris,2,16,Thursday,Morning,894
+Airline D,Chicago,Dubai,1,6,Sunday,Morning,1334
+Airline D,New York,London,1,9,Friday,Evening,1488
+Airline D,New York,Tokyo,0,10,Monday,Evening,1199
+Airline C,Houston,Tokyo,2,15,Wednesday,Evening,1783
+Airline E,Los Angeles,London,2,8,Saturday,Afternoon,1444
+Airline D,Houston,Dubai,0,8,Friday,Night,824
+Airline C,Chicago,Sydney,1,5,Sunday,Evening,532
+Airline B,Houston,London,1,5,Tuesday,Afternoon,208
+Airline B,New York,Dubai,1,15,Thursday,Evening,740
+Airline C,New York,London,0,4,Sunday,Evening,1645
+Airline C,Phoenix,London,1,18,Friday,Morning,1170
+Airline E,Phoenix,Paris,0,8,Thursday,Morning,478
+Airline E,Chicago,Dubai,0,10,Saturday,Morning,1950
+Airline B,Los Angeles,Sydney,2,10,Tuesday,Afternoon,1219
+Airline D,Houston,Paris,1,8,Wednesday,Night,1057
+Airline B,Chicago,London,0,16,Sunday,Night,202
+Airline D,Phoenix,London,1,5,Wednesday,Afternoon,991
+Airline D,Houston,London,1,12,Tuesday,Evening,953
+Airline E,Phoenix,Dubai,2,5,Thursday,Afternoon,1269
+Airline A,Houston,Dubai,1,14,Saturday,Evening,1150
+Airline A,Los Angeles,Paris,2,19,Friday,Afternoon,1855
+Airline C,Chicago,Sydney,0,7,Tuesday,Afternoon,629
+Airline E,Houston,Paris,1,11,Monday,Afternoon,778
+Airline D,New York,Tokyo,0,9,Thursday,Night,1088
+Airline A,New York,London,1,6,Wednesday,Morning,1205
+Airline D,Houston,London,0,15,Sunday,Afternoon,527
+Airline A,Houston,London,1,15,Tuesday,Night,1707
+Airline A,Houston,Paris,1,12,Wednesday,Morning,921
+Airline A,New York,Paris,1,19,Thursday,Morning,1602
+Airline E,New York,London,1,15,Wednesday,Afternoon,1889
+Airline B,Houston,Paris,1,19,Tuesday,Evening,1285
+Airline D,Phoenix,Dubai,1,6,Thursday,Evening,1962
+Airline E,Phoenix,Dubai,1,3,Monday,Evening,1031
+Airline E,Los Angeles,Paris,1,3,Tuesday,Afternoon,1525
+Airline E,Chicago,London,1,17,Friday,Evening,1631
+Airline E,Phoenix,Paris,0,15,Saturday,Night,1161
+Airline E,New York,Paris,2,19,Tuesday,Night,610
+Airline C,Phoenix,Paris,1,10,Thursday,Night,492
+Airline D,Los Angeles,Tokyo,2,15,Sunday,Night,812
+Airline E,Los Angeles,Dubai,1,16,Saturday,Morning,593
+Airline D,Chicago,Sydney,1,10,Tuesday,Night,1323
+Airline C,Phoenix,Sydney,0,10,Monday,Evening,1378
+Airline C,New York,Tokyo,0,17,Sunday,Afternoon,1302
+Airline D,New York,Paris,2,15,Monday,Evening,646
+Airline A,Houston,Tokyo,0,9,Friday,Night,693
+Airline B,New York,Tokyo,0,7,Sunday,Morning,488
+Airline A,Chicago,London,2,19,Wednesday,Night,1521
+Airline A,Chicago,Dubai,0,18,Sunday,Afternoon,1855
+Airline A,New York,Sydney,1,4,Saturday,Evening,257
+Airline E,New York,Paris,2,19,Sunday,Afternoon,1127
+Airline C,Houston,Sydney,2,9,Thursday,Afternoon,266
+Airline A,New York,Sydney,1,15,Thursday,Afternoon,1591
+Airline C,Houston,Dubai,0,16,Wednesday,Evening,1059
+Airline D,Houston,Sydney,2,15,Sunday,Night,508
+Airline B,New York,Sydney,2,13,Monday,Afternoon,1535
+Airline D,Los Angeles,Tokyo,1,18,Monday,Evening,1327
+Airline D,Los Angeles,Dubai,1,19,Tuesday,Morning,293
+Airline E,Houston,London,0,10,Friday,Evening,334
+Airline B,New York,Paris,2,17,Saturday,Morning,817
+Airline D,Los Angeles,Sydney,0,11,Friday,Evening,1273
+Airline D,New York,Paris,0,12,Sunday,Night,1282
+Airline B,New York,London,1,14,Friday,Afternoon,1402
+Airline B,New York,Paris,2,3,Tuesday,Night,915
+Airline D,Phoenix,London,2,11,Friday,Evening,503
+Airline B,New York,Tokyo,2,17,Wednesday,Afternoon,992
+Airline D,Phoenix,Sydney,1,3,Tuesday,Morning,777
+Airline D,Houston,London,1,14,Wednesday,Evening,1434
+Airline E,Los Angeles,Paris,1,5,Sunday,Afternoon,167
+Airline A,Los Angeles,Sydney,1,13,Tuesday,Morning,1586
+Airline D,Los Angeles,Tokyo,1,4,Sunday,Morning,187
+Airline C,Los Angeles,Sydney,2,18,Sunday,Night,316
+Airline A,Los Angeles,London,0,11,Friday,Evening,100
+Airline A,Los Angeles,Tokyo,2,17,Wednesday,Morning,1258
+Airline A,Los Angeles,Paris,0,14,Sunday,Afternoon,1820
+Airline E,Houston,Tokyo,1,3,Wednesday,Morning,1474
+Airline D,New York,Tokyo,0,15,Wednesday,Morning,239
+Airline E,Chicago,Dubai,2,16,Tuesday,Night,717
+Airline D,Phoenix,Tokyo,2,10,Thursday,Night,232
+Airline E,Chicago,Tokyo,0,10,Friday,Afternoon,1743
+Airline E,Chicago,Sydney,1,14,Sunday,Night,277
+Airline C,New York,Paris,1,3,Wednesday,Morning,909
+Airline E,New York,Sydney,2,13,Saturday,Morning,1481
+Airline B,New York,Sydney,0,10,Thursday,Night,479
+Airline C,Los Angeles,London,1,12,Sunday,Morning,1007
+Airline E,Houston,Sydney,1,13,Saturday,Morning,1994
+Airline A,Los Angeles,Dubai,2,9,Friday,Afternoon,757
+Airline B,Houston,Dubai,1,13,Friday,Night,549
+Airline B,Houston,London,0,19,Wednesday,Morning,685
+Airline B,Chicago,Paris,2,3,Wednesday,Night,562
+Airline C,Chicago,Paris,2,10,Sunday,Afternoon,1089
+Airline E,Houston,Sydney,0,8,Tuesday,Night,1231
+Airline E,Houston,Sydney,2,8,Thursday,Morning,221
+Airline A,Los Angeles,Sydney,1,7,Sunday,Night,116
+Airline A,Los Angeles,Paris,1,15,Thursday,Morning,1319
+Airline B,Chicago,Tokyo,0,10,Wednesday,Morning,426
+Airline A,New York,Dubai,1,11,Friday,Morning,417
+Airline C,Houston,Tokyo,0,19,Wednesday,Afternoon,908
+Airline E,Los Angeles,Tokyo,0,5,Friday,Night,1602
+Airline B,Chicago,Paris,1,13,Sunday,Afternoon,1375
+Airline A,Los Angeles,Tokyo,0,19,Friday,Night,602
+Airline C,Houston,London,1,4,Wednesday,Afternoon,218
+Airline C,Houston,Sydney,2,10,Monday,Evening,1797
+Airline A,Phoenix,London,2,9,Thursday,Morning,809
+Airline E,New York,Dubai,0,19,Saturday,Morning,1621
+Airline A,Phoenix,Sydney,1,8,Friday,Afternoon,1609
+Airline B,Chicago,Tokyo,1,8,Friday,Evening,144
+Airline A,Los Angeles,Dubai,2,4,Monday,Morning,413
+Airline C,Chicago,Sydney,2,8,Sunday,Night,1302
+Airline A,Houston,Tokyo,1,7,Sunday,Afternoon,517
+Airline E,Phoenix,London,0,6,Sunday,Morning,655
+Airline D,Phoenix,Sydney,2,19,Saturday,Morning,1906
+Airline A,Phoenix,Tokyo,0,13,Tuesday,Afternoon,1201
+Airline E,Chicago,London,0,6,Monday,Afternoon,425
+Airline E,Houston,Dubai,2,15,Saturday,Night,1813
+Airline C,Los Angeles,Dubai,0,19,Monday,Night,1480
+Airline E,Los Angeles,Dubai,0,11,Friday,Morning,1539
+Airline E,Chicago,Dubai,1,6,Thursday,Morning,614
+Airline E,Phoenix,Paris,0,16,Monday,Afternoon,313
+Airline E,New York,Sydney,1,5,Tuesday,Morning,1977
+Airline B,Chicago,Sydney,2,16,Wednesday,Morning,173
+Airline B,Chicago,Paris,2,10,Saturday,Afternoon,1686
+Airline C,Houston,Tokyo,1,3,Monday,Morning,1702
+Airline A,Los Angeles,Tokyo,2,12,Monday,Morning,608
+Airline E,Chicago,Dubai,0,18,Tuesday,Evening,431
+Airline A,Chicago,London,0,10,Thursday,Night,1216
+Airline A,Phoenix,Tokyo,0,3,Monday,Afternoon,787
+Airline C,Phoenix,London,2,14,Monday,Evening,756
+Airline E,New York,Sydney,0,10,Thursday,Night,1642
+Airline E,Houston,London,2,18,Tuesday,Night,1392
+Airline D,New York,Sydney,0,6,Saturday,Night,1499
+Airline A,Phoenix,Paris,1,8,Saturday,Evening,1957
+Airline A,Los Angeles,Paris,2,14,Monday,Evening,1127
+Airline B,Phoenix,Dubai,2,11,Thursday,Night,1261
+Airline D,Houston,Tokyo,0,17,Monday,Morning,1354
+Airline B,Phoenix,Dubai,2,18,Sunday,Morning,699
+Airline B,Houston,Sydney,2,14,Wednesday,Evening,1652
+Airline B,Houston,Dubai,1,16,Saturday,Evening,1175
+Airline C,Houston,London,1,15,Sunday,Evening,1769
+Airline C,Houston,Sydney,0,4,Friday,Night,1846
+Airline B,Houston,Paris,1,5,Wednesday,Morning,424
+Airline D,Los Angeles,Tokyo,0,12,Monday,Evening,1091
+Airline A,New York,Sydney,0,11,Tuesday,Evening,1854
+Airline D,Chicago,Sydney,0,10,Saturday,Afternoon,816
+Airline E,New York,London,2,12,Friday,Night,822
+Airline C,Houston,Tokyo,1,5,Wednesday,Afternoon,376
+Airline A,Los Angeles,Paris,0,7,Saturday,Morning,635
+Airline A,Phoenix,Sydney,1,5,Thursday,Afternoon,1609
+Airline E,Los Angeles,Sydney,0,18,Tuesday,Afternoon,1639
+Airline E,Houston,London,1,19,Wednesday,Afternoon,251
+Airline B,Los Angeles,Dubai,1,17,Thursday,Night,1054
+Airline C,Los Angeles,Paris,0,5,Sunday,Morning,1606
+Airline C,Houston,Tokyo,2,14,Monday,Afternoon,358
+Airline D,Los Angeles,Sydney,1,11,Thursday,Night,423
+Airline B,Chicago,Sydney,2,14,Wednesday,Morning,1116
+Airline B,Chicago,Paris,2,17,Wednesday,Evening,968
+Airline B,Los Angeles,Dubai,0,4,Sunday,Afternoon,1291
+Airline B,Phoenix,Sydney,0,14,Monday,Morning,787
+Airline C,Houston,Paris,0,6,Thursday,Afternoon,409
+Airline C,Chicago,London,1,18,Thursday,Evening,902
+Airline B,Phoenix,Dubai,0,18,Monday,Morning,1602
+Airline D,Los Angeles,Tokyo,0,3,Thursday,Night,1179
+Airline A,Phoenix,Sydney,1,4,Saturday,Morning,719
+Airline A,New York,Paris,1,5,Monday,Night,572
+Airline D,Chicago,London,0,19,Tuesday,Morning,1419
+Airline B,Los Angeles,Tokyo,0,3,Wednesday,Night,560
+Airline C,Houston,Paris,0,8,Tuesday,Evening,1447
+Airline A,Los Angeles,Paris,0,17,Saturday,Evening,913
+Airline E,Houston,Tokyo,2,16,Sunday,Evening,945
+Airline E,Los Angeles,London,2,17,Saturday,Morning,1264
+Airline D,Phoenix,London,0,16,Friday,Evening,766
+Airline B,Phoenix,Dubai,2,7,Friday,Afternoon,361
+Airline A,Phoenix,Sydney,1,8,Friday,Evening,1908
+Airline B,New York,Tokyo,2,19,Monday,Night,1543
+Airline A,Houston,Tokyo,2,13,Thursday,Night,1867
+Airline D,Phoenix,Tokyo,0,18,Saturday,Night,1364
+Airline D,New York,London,2,14,Tuesday,Morning,454
+Airline E,Houston,Sydney,2,17,Sunday,Afternoon,1972
+Airline B,Los Angeles,Dubai,2,6,Tuesday,Evening,869
+Airline E,New York,Paris,2,5,Tuesday,Afternoon,1884
+Airline B,Chicago,Paris,1,10,Tuesday,Afternoon,1712
+Airline E,New York,Tokyo,0,5,Sunday,Night,279
+Airline C,New York,Sydney,0,10,Friday,Night,165
+Airline C,Houston,London,1,12,Tuesday,Night,919
+Airline C,Los Angeles,Sydney,2,19,Sunday,Morning,1471
+Airline C,Chicago,Sydney,1,10,Sunday,Afternoon,270
+Airline A,Phoenix,London,2,13,Thursday,Afternoon,573
+Airline C,Phoenix,Tokyo,1,7,Sunday,Morning,633
+Airline D,New York,Sydney,0,15,Friday,Morning,1490
+Airline D,Houston,Paris,0,7,Tuesday,Morning,1230
+Airline A,Houston,London,0,15,Sunday,Afternoon,538
+Airline C,Phoenix,Dubai,2,8,Monday,Afternoon,934
+Airline C,Chicago,Tokyo,2,7,Sunday,Night,326
+Airline C,Los Angeles,London,1,11,Wednesday,Night,1567
+Airline E,Chicago,Dubai,1,18,Wednesday,Afternoon,541
+Airline B,Los Angeles,Dubai,0,4,Wednesday,Night,495
+Airline E,Phoenix,Sydney,2,3,Sunday,Morning,827
+Airline B,Los Angeles,Sydney,1,10,Friday,Evening,1704
+Airline C,Houston,Sydney,2,13,Tuesday,Night,183
+Airline C,New York,London,2,14,Saturday,Afternoon,1738
+Airline E,New York,London,0,14,Saturday,Night,1674
+Airline E,Phoenix,Tokyo,0,9,Saturday,Night,1136
+Airline B,Houston,Sydney,2,15,Friday,Night,1932
+Airline D,Chicago,Dubai,2,10,Thursday,Evening,1948
+Airline B,Houston,Paris,2,11,Monday,Morning,792
+Airline E,New York,Tokyo,2,9,Monday,Afternoon,592
+Airline E,New York,London,0,17,Wednesday,Evening,1391
+Airline A,Houston,Tokyo,1,4,Wednesday,Afternoon,1648
+Airline E,Houston,Tokyo,0,14,Sunday,Afternoon,1243
+Airline A,New York,Tokyo,1,3,Saturday,Afternoon,1069
+Airline D,Chicago,Tokyo,2,10,Sunday,Evening,452
+Airline B,Phoenix,Paris,1,7,Saturday,Morning,1180
+Airline B,Phoenix,Sydney,0,17,Wednesday,Afternoon,139
+Airline A,Houston,Dubai,0,3,Tuesday,Morning,1459
+Airline B,Phoenix,Tokyo,2,3,Thursday,Morning,739
+Airline E,New York,Tokyo,0,12,Sunday,Night,272
+Airline C,New York,Tokyo,2,12,Thursday,Evening,1670
+Airline A,Houston,Sydney,0,17,Thursday,Evening,358
+Airline B,Houston,London,0,19,Thursday,Night,616
+Airline A,Houston,London,2,8,Wednesday,Night,829
+Airline A,Chicago,Paris,1,5,Monday,Morning,622
+Airline C,Phoenix,London,0,15,Wednesday,Afternoon,938
+Airline E,Houston,Tokyo,1,18,Thursday,Evening,216
+Airline A,Los Angeles,Tokyo,0,10,Wednesday,Afternoon,283
+Airline B,Los Angeles,Tokyo,0,17,Thursday,Afternoon,1997
+Airline D,New York,Paris,0,19,Friday,Night,1239
+Airline A,Phoenix,Tokyo,0,19,Saturday,Afternoon,261
+Airline A,Houston,London,1,15,Monday,Morning,1702
+Airline C,Los Angeles,Sydney,1,19,Friday,Night,1835
+Airline E,Phoenix,Sydney,0,8,Tuesday,Afternoon,642
+Airline D,New York,Dubai,0,19,Wednesday,Night,1710
+Airline B,Chicago,London,1,18,Tuesday,Morning,1360
+Airline D,Phoenix,Tokyo,2,16,Sunday,Morning,938
+Airline B,Phoenix,Sydney,2,15,Wednesday,Afternoon,1189
+Airline E,Chicago,London,1,8,Saturday,Night,1193
+Airline B,Phoenix,Sydney,0,5,Friday,Afternoon,1932
+Airline C,New York,Tokyo,0,16,Saturday,Afternoon,546
+Airline C,New York,Sydney,2,16,Sunday,Night,515
+Airline C,Chicago,Dubai,2,17,Thursday,Afternoon,631
+Airline C,Houston,Dubai,1,10,Saturday,Morning,540
+Airline D,Los Angeles,Sydney,2,17,Saturday,Night,837
+Airline E,Houston,London,1,15,Thursday,Night,563
+Airline B,Phoenix,London,2,19,Wednesday,Night,495
+Airline B,Los Angeles,London,2,5,Thursday,Night,810
+Airline C,Chicago,Sydney,2,8,Friday,Afternoon,1674
+Airline C,Chicago,London,0,7,Saturday,Afternoon,1780
+Airline A,Los Angeles,Tokyo,0,19,Thursday,Morning,1680
+Airline E,New York,Dubai,0,4,Sunday,Evening,494
+Airline D,Los Angeles,Tokyo,2,17,Sunday,Evening,425
+Airline B,Phoenix,London,1,7,Saturday,Morning,1214
+Airline A,New York,Tokyo,1,8,Friday,Evening,849
+Airline A,Chicago,London,1,8,Tuesday,Morning,1193
+Airline B,Los Angeles,Sydney,1,6,Friday,Afternoon,1289
+Airline D,Houston,Tokyo,0,19,Monday,Night,741
+Airline A,Houston,Sydney,0,16,Monday,Night,313
+Airline A,Phoenix,Sydney,2,16,Monday,Afternoon,1975
+Airline E,Houston,Paris,2,15,Saturday,Night,1724
+Airline D,Los Angeles,London,1,9,Sunday,Night,1458
+Airline A,Los Angeles,Dubai,0,14,Wednesday,Evening,1887
+Airline D,Houston,London,1,17,Sunday,Afternoon,468
+Airline B,Los Angeles,Dubai,2,13,Wednesday,Evening,1984
+Airline C,Phoenix,London,2,17,Wednesday,Evening,1707
+Airline A,New York,Sydney,1,14,Sunday,Night,1800
+Airline E,Phoenix,Tokyo,2,5,Saturday,Night,148
+Airline B,Phoenix,Tokyo,1,19,Friday,Afternoon,1175
+Airline D,Los Angeles,Paris,0,5,Wednesday,Night,1412
+Airline B,New York,Dubai,1,6,Tuesday,Night,1913
+Airline A,Los Angeles,Dubai,0,5,Sunday,Afternoon,1749
+Airline D,Chicago,Dubai,0,18,Sunday,Night,1362
+Airline C,Los Angeles,Sydney,2,14,Monday,Evening,232
+Airline B,Los Angeles,Dubai,2,10,Friday,Afternoon,1098
+Airline A,Los Angeles,Tokyo,2,19,Monday,Night,885
+Airline E,New York,Sydney,1,9,Sunday,Morning,1289
+Airline D,Los Angeles,London,1,13,Sunday,Afternoon,1497
+Airline B,New York,Dubai,2,3,Wednesday,Afternoon,472
+Airline B,Houston,Dubai,1,5,Friday,Morning,1928
+Airline C,Chicago,London,2,6,Thursday,Night,1601
+Airline C,New York,Dubai,1,15,Tuesday,Night,1878
+Airline E,Houston,London,0,8,Wednesday,Afternoon,578
+Airline E,New York,Sydney,0,16,Sunday,Afternoon,931
+Airline A,New York,Tokyo,2,7,Wednesday,Night,749
+Airline A,Chicago,London,1,18,Tuesday,Night,1714
+Airline E,Phoenix,Paris,1,17,Sunday,Evening,781
+Airline E,Phoenix,London,0,17,Tuesday,Afternoon,1758
+Airline D,New York,Dubai,0,6,Thursday,Afternoon,787
+Airline C,Los Angeles,Sydney,2,10,Wednesday,Morning,1423
+Airline A,Houston,Sydney,0,18,Saturday,Evening,181
+Airline C,Los Angeles,London,2,18,Wednesday,Night,186
+Airline C,Los Angeles,Tokyo,0,6,Monday,Evening,324
+Airline E,New York,Paris,0,15,Friday,Night,115
+Airline D,New York,Sydney,1,15,Friday,Night,921
+Airline B,New York,Dubai,0,4,Monday,Evening,1481
+Airline D,New York,Dubai,0,5,Sunday,Afternoon,262
+Airline D,Phoenix,Tokyo,2,10,Friday,Night,1733
+Airline C,New York,Sydney,0,17,Tuesday,Evening,1791
+Airline D,Phoenix,London,2,13,Friday,Morning,613
+Airline A,Phoenix,Dubai,0,11,Friday,Evening,449
+Airline C,New York,Tokyo,0,9,Monday,Morning,780
+Airline A,Chicago,Sydney,2,15,Sunday,Night,1587
+Airline B,Houston,Sydney,1,4,Thursday,Evening,1950
+Airline C,Los Angeles,Sydney,2,10,Friday,Evening,1960
+Airline B,Phoenix,Sydney,2,9,Saturday,Morning,1498
+Airline C,Houston,Sydney,2,14,Friday,Evening,1215
+Airline E,Chicago,Dubai,1,9,Thursday,Evening,280
+Airline D,Los Angeles,Tokyo,0,12,Monday,Night,842
+Airline E,Los Angeles,Sydney,2,18,Thursday,Evening,1424
+Airline B,Phoenix,Paris,2,5,Monday,Afternoon,759
+Airline D,New York,Paris,1,12,Tuesday,Morning,1915
+Airline C,Chicago,Tokyo,2,8,Monday,Evening,1312
+Airline D,Phoenix,London,0,7,Tuesday,Morning,1982
+Airline A,Chicago,London,1,9,Tuesday,Morning,1985
+Airline D,New York,London,0,4,Monday,Morning,1437
+Airline A,New York,Paris,0,13,Saturday,Evening,592
+Airline D,Phoenix,London,1,15,Wednesday,Evening,1022
+Airline A,New York,Dubai,2,7,Monday,Morning,227
+Airline B,Houston,Sydney,0,8,Friday,Afternoon,1642
+Airline E,Los Angeles,Paris,0,16,Saturday,Morning,1549
+Airline C,Phoenix,Tokyo,0,14,Saturday,Afternoon,1682
+Airline D,Chicago,Tokyo,0,6,Friday,Morning,664
+Airline E,Houston,Sydney,1,8,Wednesday,Night,1310
+Airline C,Phoenix,Paris,1,12,Saturday,Morning,649
+Airline C,New York,London,0,17,Tuesday,Morning,552
+Airline A,New York,London,2,10,Wednesday,Evening,570
+Airline B,New York,Dubai,0,11,Sunday,Afternoon,1087
+Airline B,New York,Dubai,2,7,Friday,Night,837
+Airline E,Chicago,London,0,12,Wednesday,Afternoon,1688
+Airline B,Houston,Tokyo,2,8,Monday,Night,323
+Airline D,Los Angeles,Tokyo,0,18,Wednesday,Morning,253
+Airline B,Chicago,Dubai,2,5,Tuesday,Evening,659
+Airline E,Chicago,Sydney,0,12,Monday,Evening,450
+Airline B,Los Angeles,London,0,13,Thursday,Afternoon,1270
+Airline D,Los Angeles,Dubai,2,13,Friday,Evening,1699
+Airline A,New York,Dubai,1,19,Friday,Afternoon,448
+Airline E,Chicago,London,2,6,Wednesday,Afternoon,281
+Airline A,Phoenix,London,1,6,Saturday,Night,736
+Airline A,Los Angeles,Tokyo,0,19,Monday,Afternoon,1117
+Airline A,Los Angeles,Sydney,2,11,Thursday,Night,278
+Airline C,Houston,Sydney,2,7,Monday,Evening,1162
+Airline C,Phoenix,London,2,8,Friday,Afternoon,871
+Airline A,Phoenix,Paris,1,5,Monday,Afternoon,993
+Airline E,Los Angeles,Dubai,1,3,Thursday,Morning,1126
+Airline D,New York,Dubai,0,18,Saturday,Afternoon,1115
+Airline D,Houston,London,1,13,Wednesday,Afternoon,163
+Airline B,Phoenix,Paris,1,15,Tuesday,Morning,128
+Airline E,Los Angeles,Tokyo,0,12,Monday,Morning,471
+Airline C,Phoenix,London,2,5,Tuesday,Evening,1646
+Airline A,Houston,London,2,11,Friday,Afternoon,196
+Airline B,Houston,Dubai,0,14,Wednesday,Evening,1993
+Airline D,Chicago,London,2,16,Sunday,Evening,1565
+Airline C,Los Angeles,London,1,3,Wednesday,Morning,1326
+Airline C,Houston,London,0,19,Monday,Night,1534
+Airline A,Chicago,Dubai,0,11,Saturday,Evening,1092
+Airline D,Chicago,Tokyo,0,11,Wednesday,Night,120
+Airline E,Phoenix,Tokyo,2,12,Monday,Afternoon,1674
+Airline C,Phoenix,London,0,17,Monday,Morning,834
+Airline A,Chicago,Dubai,0,7,Tuesday,Afternoon,1225
+Airline E,Phoenix,Tokyo,0,17,Wednesday,Afternoon,1169
+Airline D,Houston,Tokyo,2,4,Monday,Morning,165
+Airline C,New York,Tokyo,1,15,Tuesday,Afternoon,702
+Airline E,Houston,Dubai,0,18,Thursday,Morning,1287
+Airline E,Chicago,Dubai,1,17,Sunday,Night,1234
+Airline E,Chicago,London,2,12,Tuesday,Afternoon,437
+Airline C,Houston,Sydney,2,16,Tuesday,Morning,222
+Airline C,Phoenix,Tokyo,2,12,Monday,Evening,1828
+Airline B,Phoenix,Sydney,2,16,Friday,Afternoon,546
+Airline D,Chicago,Dubai,1,11,Friday,Night,710
+Airline A,Los Angeles,Dubai,0,16,Saturday,Morning,1414
+Airline E,Phoenix,Dubai,2,5,Friday,Afternoon,770
+Airline B,Houston,Sydney,2,18,Tuesday,Afternoon,1535
+Airline A,Phoenix,Dubai,1,4,Saturday,Afternoon,714
+Airline B,Houston,London,1,12,Monday,Night,996
+Airline C,Chicago,Dubai,2,5,Wednesday,Morning,380
+Airline E,Phoenix,Paris,0,13,Sunday,Evening,1166
+Airline A,Houston,Sydney,0,13,Sunday,Evening,1609
+Airline A,Chicago,Paris,2,15,Tuesday,Evening,695
+Airline A,Los Angeles,Dubai,1,9,Tuesday,Morning,802
+Airline A,Houston,London,2,19,Saturday,Evening,1174
+Airline A,Los Angeles,Tokyo,2,4,Monday,Night,309
+Airline B,Los Angeles,Dubai,1,14,Thursday,Morning,225
+Airline E,New York,London,2,12,Tuesday,Afternoon,591
+Airline C,Phoenix,Sydney,2,13,Thursday,Night,1632
+Airline C,Houston,Paris,2,18,Thursday,Afternoon,1059
+Airline C,Los Angeles,Paris,1,19,Friday,Evening,1069
+Airline C,New York,Paris,0,5,Monday,Night,680
+Airline B,Chicago,Sydney,0,18,Sunday,Morning,876
+Airline D,Houston,London,1,8,Sunday,Night,357
+Airline E,Los Angeles,Sydney,0,14,Thursday,Afternoon,1311
+Airline A,Phoenix,Paris,2,13,Sunday,Morning,329
+Airline D,New York,Dubai,0,17,Monday,Night,288
+Airline C,Los Angeles,Tokyo,2,17,Friday,Night,1538
+Airline D,Phoenix,Sydney,0,18,Monday,Night,109
+Airline E,Los Angeles,Sydney,1,12,Tuesday,Night,1237
+Airline A,Houston,London,0,14,Thursday,Morning,1199
+Airline A,Houston,London,0,15,Monday,Afternoon,775
+Airline E,Houston,Sydney,0,6,Sunday,Night,601
+Airline E,New York,Paris,1,9,Wednesday,Morning,184
+Airline C,Houston,Tokyo,0,4,Monday,Afternoon,148
+Airline A,Phoenix,London,1,17,Thursday,Night,1618
+Airline D,Los Angeles,Paris,2,10,Friday,Afternoon,937
+Airline B,Chicago,Dubai,0,9,Sunday,Afternoon,1107
+Airline B,Phoenix,London,1,17,Friday,Morning,788
+Airline E,Phoenix,Paris,1,16,Thursday,Afternoon,486
+Airline C,Houston,Paris,0,10,Sunday,Morning,1069
+Airline B,New York,Tokyo,2,14,Tuesday,Night,1512
+Airline A,Los Angeles,Tokyo,1,15,Sunday,Afternoon,1105
+Airline E,New York,Dubai,0,13,Tuesday,Afternoon,317
+Airline D,Los Angeles,Paris,2,19,Friday,Evening,1824
+Airline E,Los Angeles,Paris,1,19,Friday,Night,1104
+Airline D,New York,Tokyo,1,6,Thursday,Night,1469
+Airline E,Phoenix,London,2,10,Tuesday,Evening,1353
+Airline E,Los Angeles,London,2,7,Friday,Evening,354
+Airline E,New York,Sydney,0,18,Tuesday,Morning,335
+Airline D,Los Angeles,Tokyo,0,6,Friday,Morning,1149
+Airline D,Chicago,Sydney,1,17,Sunday,Afternoon,1707
+Airline E,Phoenix,Tokyo,2,14,Monday,Afternoon,1384
+Airline B,Houston,Dubai,2,7,Wednesday,Afternoon,1889
+Airline C,Los Angeles,Paris,2,18,Sunday,Afternoon,370
+Airline C,Chicago,Dubai,1,16,Saturday,Morning,222
+Airline C,Houston,Tokyo,2,12,Monday,Night,755
+Airline D,Houston,Paris,2,9,Saturday,Afternoon,1380
+Airline D,Los Angeles,London,1,15,Friday,Night,1779
+Airline B,New York,London,0,7,Wednesday,Afternoon,1544
+Airline C,Los Angeles,Sydney,0,5,Wednesday,Evening,358
+Airline C,Chicago,Tokyo,1,17,Friday,Afternoon,1047
+Airline E,Houston,Tokyo,2,6,Friday,Afternoon,146
+Airline D,Los Angeles,London,1,17,Tuesday,Afternoon,962
+Airline C,New York,Dubai,0,16,Friday,Morning,624
+Airline B,Los Angeles,Paris,0,15,Thursday,Evening,987
+Airline B,Phoenix,Dubai,1,12,Friday,Afternoon,307
+Airline C,New York,Dubai,1,7,Thursday,Afternoon,1434
+Airline D,Chicago,London,0,8,Friday,Night,846
+Airline B,Houston,London,1,6,Tuesday,Evening,248
+Airline E,Los Angeles,London,0,4,Thursday,Afternoon,1957
+Airline B,New York,Sydney,1,18,Monday,Night,537
+Airline A,Phoenix,Dubai,1,7,Thursday,Night,254
+Airline A,New York,Tokyo,1,6,Sunday,Morning,1801
+Airline D,Phoenix,Paris,0,15,Tuesday,Night,1213
+Airline C,Chicago,Sydney,1,4,Saturday,Afternoon,1821
